@@ -8,7 +8,7 @@
 #
 ###############################################################################
 
-DIR="/opt/EOSmainNet"
+DIR="/home/ubuntu/node"
 
 
  if [ -f $DIR"/nodeos.pid" ]; then
